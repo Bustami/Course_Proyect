@@ -18,7 +18,7 @@ Select only the data of the variables with "Mean" and "Std" words in their names
 # Mean of each variable for each activity and each subject
 First group_by the data in order the useful variables (Subject and Activity) to then calculate the mean of each other variables
 
-# Name the activities
+# Change and Order the Names
 Assign the respective Activity in order to Label Index
 Change same parts of column names replacing for others ("." to ""; "BodyBody" to "Body"; etc)
 
